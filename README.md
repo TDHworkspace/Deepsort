@@ -17,6 +17,7 @@ OpenCV的DNN加载YOLO模型，这样就不用依赖Darknet库
 现在目标跟踪的特征部分使用TensorFlow C++的api。如果再想轻量级一些，就要去除Tensorflow的依赖。
 
 环境配置可以参考：https://blog.csdn.net/tdh2017/article/details/105139097
+代码调试参考：https://blog.csdn.net/tdh2017/article/details/105527691
 
 里面使用了github作者的大量代码，站在巨人们的基础上。
 
